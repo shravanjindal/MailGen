@@ -19,5 +19,5 @@ Create a new Groq Api Key : https://console.groq.com/keys
 
 Run main.py file using the following command:
 ```bash
-$streamlit run main.py
+$ streamlit run main.py
 ```
