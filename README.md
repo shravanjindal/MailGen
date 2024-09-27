@@ -3,9 +3,11 @@ This app generate cold mails, using llms, based on the job description.
 
 # USAGE :
 ### Step 1:
-Install all requirements using requirements.txt
- $pip install -r requirements.txt
+Install all the required dependencies using the `requirements.txt` file:
 
+```bash
+$ pip install -r requirements.txt
+```
 ### Step 2:
 Create a .env file in the app folder.
 Define a variable :
