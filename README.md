@@ -11,11 +11,13 @@ $ pip install -r requirements.txt
 ### Step 2:
 Create a .env file in the app folder.
 Define a variable :
-  GROQ_API_KEY=<your_api_key>
+`GROQ_API_KEY=<your_api_key>`
 
 Create a new Groq Api Key : https://console.groq.com/keys
 
 ### Step 3:
-Run main.py file using the following command:
 
+Run main.py file using the following command:
+```bash
 $streamlit run main.py
+```
